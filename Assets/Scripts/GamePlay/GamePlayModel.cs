@@ -46,10 +46,7 @@ namespace GamePlay
         }
         #endregion
 
-        private void Awake()
-        {
-            CalculateSize();
-        }
+      
 
         public void CalculateSize()
         {

@@ -34,6 +34,7 @@ namespace GamePlay
             {
                 Destroy(gameObject);
             }
+            gamePlayModel.CalculateSize();
         }
     
 
